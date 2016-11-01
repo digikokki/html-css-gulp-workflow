@@ -1,0 +1,36 @@
+{
+  "name": "html-css-gulp-workflow",
+  "version": "1.0.0",
+  "description": "Tämä paketti sisältää helpon Gulp workflow Html css taittoon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://digikokki@github.com/digikokki/html-css-gulp-workflow.git"
+  },
+  "keywords": [
+    "workflow",
+    "gulp"
+  ],
+  "author": "Digikokki Andreas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digikokki/html-css-gulp-workflow/issues"
+  },
+  "homepage": "https://github.com/digikokki/html-css-gulp-workflow#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-rev": "^7.1.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-usemin": "^0.3.25",
+    "gulp-watch": "^4.3.10",
+    "merge-stream": "^1.0.0"
+  }
+}
